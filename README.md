@@ -23,7 +23,7 @@ Below are the important metrics calculated through this analysis in order to det
 
 ## Summary 
 
-As outlined above, the percentage of unpaid non-Vine reviews that were five-star reviews was 51.56%, whereas the paid Vine reviews that were five-star reviews was 18.37%. These results suggest that there does not appear to be a positivity bias for the Vine reviews that are paid. In fact, it appears that the Vine reviewers may have been particularly discerning and approached their reviews with a critical eye given the low percentage of five-star reviews. 
+As outlined above, the percentage of unpaid non-Vine reviews that were five-star reviews was 51.56%, whereas the paid Vine reviews that were five-star reviews was 18.37%. These results suggest that there does not appear to be a positivity bias for the Vine reviews that are paid due to the relatively smaller percentage of five-star reviews. In fact, it appears that the Vine reviewers may have been particularly discerning and approached their reviews with a critical eye given the low percentage of five-star reviews. 
 
 One additional analysis that could be performed with the data set to further examine whether there was positivity bias for the Vine reviews would be to filter the dataset to only include verified purchases (verify_purchase == Y) and to run the analysis again to determine the percentage of five-star reviews within the non-Vine and Vine total reviews. 
   - By only including those reviews where customers were verified to have purchased the Video/DVD products from Amazon and not at an unusually large discount, this could help to curtail a positivity bias of five-star reviews and ensure that the reviews included in the final analysis are based upon typical purchases from Amazon. 
