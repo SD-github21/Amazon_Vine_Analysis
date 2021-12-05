@@ -1,5 +1,5 @@
 # Amazon Vine Analysis
-The purpose of the Amazon Vine analysis was to analyze Amazon reviews on videos and DVDs that were written by members of the Amazon Vine program who are paid for their reviews. The analysis entailed conducting an ETL process to extract an Amazon dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAmin for storage in a SQL database. An additional analysis was conducted to determine whether there was evidence of of any bias towards favorable reviews from Amazon Vine program members. The report below details the results of the this second analysis investigating the presence of positivity bias for Amazon Vine program members (paid members). 
+The purpose of the Amazon Vine analysis was to analyze Amazon reviews on videos and DVDs that were written by members of the Amazon Vine program who are paid for their reviews. First, an ETL process was conducted to extract an Amazon dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAmin for storage in a SQL database. Subsequently, an analysis was conducted to determine whether there was evidence of any bias towards favorable reviews from Amazon Vine program members. The report below details the results of the this second analysis investigating the presence of positivity bias for Amazon Vine program members (paid members). 
 
 ## Resources
 - Data Sources: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_DVD_v1_00.tsv.gz
@@ -7,7 +7,7 @@ The purpose of the Amazon Vine analysis was to analyze Amazon reviews on videos 
 
 ## Results
 
-Below are the important metrics calculated through this analysis:
+Below are the important metrics calculated through this analysis in order to determine if there was evidence of any bias towards favorable reviews from Amazon Vine program members:
 
 -	The total number of non-Vine unpaid reviews (n = 151,400) and the total number of Vine paid reviews (n = 49)
 
