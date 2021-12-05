@@ -15,11 +15,11 @@ Below are the important metrics calculated through this analysis:
 
 -	The number of non-Vine unpaid five-star reviews (n = 78,061) and the total number of Vine paid five-star reviews (n = 9)
 
-  ![image](https://user-images.githubusercontent.com/85533099/144763954-84076ef9-0165-49ea-ae56-15d96795c5e0.png)
+	![image](https://user-images.githubusercontent.com/85533099/144763954-84076ef9-0165-49ea-ae56-15d96795c5e0.png)
 
 -	The percentage of non-Vine unpaid reviews that were five-star reviews (51.56%) and the percentage of non-Vine unpaid reviews that were five-star reviews (18.37%)
 
-![image](https://user-images.githubusercontent.com/85533099/144763980-892d9c11-ad5d-4560-93de-d8c89b8fc94d.png)
+	![image](https://user-images.githubusercontent.com/85533099/144763980-892d9c11-ad5d-4560-93de-d8c89b8fc94d.png)
 
 ## Summary 
 
